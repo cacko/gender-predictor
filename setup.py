@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='gender_predictor',
-      version='1.0',
+      version='1.0.1',
       description=(' '),
       author='Clint Valentine',
       author_email='valentine.clint@gmail.com',
